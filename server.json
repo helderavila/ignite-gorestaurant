@@ -2,7 +2,7 @@
   "foods": [
     {
       "id": 1,
-      "name": "ola",
+      "name": "Miojo muito bom",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
       "price": "35",
       "available": false,
@@ -10,9 +10,9 @@
     },
     {
       "id": 2,
-      "name": "eeee",
+      "name": "Arroz",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "2321",
+      "price": "11",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
@@ -23,30 +23,6 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "image": "tes",
-      "name": "tetete",
-      "price": "1231",
-      "description": "teste",
-      "available": false,
-      "id": 4
-    },
-    {
-      "image": "234234",
-      "name": "TESTE",
-      "price": "1312312",
-      "description": "3112312",
-      "available": true,
-      "id": 5
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "Miojo",
-      "price": "5",
-      "description": "Miojo bom",
-      "available": false,
-      "id": 6
     }
   ]
 }
